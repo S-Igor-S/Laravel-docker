@@ -6,6 +6,7 @@
 /storage/*.key
 /docker/mysql/data/*
 /vendor
+/logs
 .env
 .env.backup
 .env.production
